@@ -1,0 +1,11 @@
+-La página no presenta una verificacion de caracteres para los distintos campos.
+-En la automatizacion es importante para la ejecución de tareas no direccionar al nombre del elemento
+dentro de la página sino a su clase, id o característica, etc.
+-La compra de articulos es funcional, aunque existe errores que si no agrego ningun articulo de igual
+manera puedo ver el carro de compras y finalizar una compra vacía.
+-Dentro del features es recomendable usar variables dinámicas para adquirir dicho valor en el step
+y así mejorar el flujo y sea escalable.
+-La página web es funcional con lo descrito en los pasos del ejercicio, aunque tiene muchos elementos
+que deben validarse, tanto la parte funcional como la no funcional.
+-Agregar productos con valor cero podría en aplicaciónes reales, agregar un valor de comisión a los usiarios,
+razón por lo cual dichos elementos no validados serían un grave error.
